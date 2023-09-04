@@ -1,2 +1,0 @@
-Open this folder in vs code and run it by using live server.
-Each code has it's own html document.
